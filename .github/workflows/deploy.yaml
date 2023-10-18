@@ -26,3 +26,4 @@ jobs:
           service-env: "PORT=3000"
           service-ports: "3000:http"
           service-routes: "/:3000"
+          git-builder: docker
